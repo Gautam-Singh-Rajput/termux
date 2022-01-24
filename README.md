@@ -12,4 +12,4 @@ Terminal emulator with packages
  * Run text-based games with frotz.  At first start a small base system is being configured. The GNU Bash, Coreutils, Findutils and other core utilities are available out-of-box. Additionally, we provide more than 1000 other packages installable by using the 'pkg' utility which currently is a frontend for the 'apt' package manager. All provided software has been patched and compiled with Android NDK to provide max compatibility with Android OS.  To learn more about application usage tips and tricks, long-press anywhere on the terminal and select the Help menu option to access Termux Wiki. This resource is also accessible directly in a web browser:" https://wiki.termux.com/wiki/Main_Page."
 
 
-F-Droid is apk application that use to install termux:-( https://f-droid.org/F-Droid.apk)
+F-Droid is apk application that use to install termux write on your browser:- `https://f-droid.org/F-Droid.apk`
