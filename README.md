@@ -13,3 +13,7 @@ Terminal emulator with packages
 
 
 F-Droid is apk application that use to install termux write on your browser:- `https://f-droid.org/F-Droid.apk`
+
+
+
+Download termux :- https://drive.google.com/file/d/10Zqi2rB2smkhJNCV4MGVx3erGIuYX2Ts/view?usp=drivesdk
